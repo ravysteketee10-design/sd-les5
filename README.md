@@ -2,4 +2,4 @@
 dit is wat we moeten doen for github
 
 ## test test test
-t
+![hamburger!](foto's/images.jpg)
